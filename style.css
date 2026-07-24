@@ -1,0 +1,128 @@
+
+body {
+    background: linear-gradient(to right, #5C43DE, #7546B0);
+}
+
+.main-title {
+    text-align: center;
+    margin-bottom: 40px;
+    font-family: "DynaPuff", system-ui;
+    font-optical-sizing: auto;
+ /* font-weight: <weight>; */
+    font-style: normal;
+ /* font-variation-settings: */
+ /* "wdth" 100; */
+}
+
+.main-description {
+    text-align: center;
+    margin-bottom: 50px;
+    font-family: "DynaPuff", system-ui;
+    font-optical-sizing: auto;
+    /* font-weight: <weight>; */
+    font-style: normal;
+    /* font-variation-settings: */
+    /* "wdth" 100; */
+}
+
+.headings-title {
+    text-align: center;
+    margin-bottom: 40px;
+    margin-top: 100px;
+    font-family: "DynaPuff", system-ui;
+    font-optical-sizing: auto;
+    /* font-weight: <weight>; */
+    font-style: normal;
+    /* font-variation-settings: */
+    /* "wdth" 100; */
+}
+
+.headings-description {
+    text-align: center;
+    margin-bottom: 40px;
+    font-family: "DynaPuff", system-ui;
+    font-optical-sizing: auto;
+    /* font-weight: <weight>; */
+    font-style: normal;
+    /* font-variation-settings: */
+    /* "wdth" 100; */
+}
+
+.heading-examples {
+    background: #2b2d31;
+    color: #dbdee1;
+    border-radius: 8px;
+    padding: 16px;
+    width: fit-content;
+    margin: 0 auto;
+}
+.heading-examples pre {
+    margin: 0;
+    font-family: Consolas, "Courier New", monospace;
+    white-space: pre-wrap;
+}
+
+.writing-styles-title {
+    text-align: center;
+    margin-bottom: 40px;
+    margin-top: 100px;
+    font-family: "DynaPuff", system-ui;
+    font-optical-sizing: auto;
+    /* font-weight: <weight>; */
+    font-style: normal;
+    /* font-variation-settings: */
+    /* "wdth" 100; */
+}
+
+.writing-styles-description {
+   text-align: center;
+    margin-bottom: 40px;
+    font-family: "DynaPuff", system-ui;
+    font-optical-sizing: auto;
+    /* font-weight: <weight>; */
+    font-style: normal;
+    /* font-variation-settings: */
+    /* "wdth" 100; */
+}
+
+.writing-styles-examples {
+    background: #2b2d31;
+    color: #dbdee1;
+    border-radius: 8px;
+    padding: 16px;
+    width: fit-content;
+    margin: 0 auto;
+}
+
+.codeblocks-title {
+    text-align: center;
+    margin-bottom: 40px;
+    margin-top: 100px;
+    font-family: "DynaPuff", system-ui;
+    font-optical-sizing: auto;
+    /* font-weight: <weight>; */
+    font-style: normal;
+    /* font-variation-settings: */
+    /* "wdth" 100; */
+}
+
+.codeblocks-description {
+    text-align: center;
+    margin-bottom: 40px;
+    margin-top: 100px;
+    font-family: "DynaPuff", system-ui;
+    font-optical-sizing: auto;
+    /* font-weight: <weight>; */
+    font-style: normal;
+    /* font-variation-settings: */
+    /* "wdth" 100; */
+}
+
+.codeblock-examples {
+    background: #2b2d31;
+    color: #dbdee1;
+    border-radius: 8px;
+    padding: 16px;
+    width: fit-content;
+    margin: 0 auto;
+}
